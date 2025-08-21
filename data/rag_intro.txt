@@ -1,0 +1,12 @@
+Retrieval-Augmented Generation (RAG) is an advanced AI method that combines information retrieval with text generation.  
+The goal is to enhance a language model's ability to provide accurate and relevant answers by supplying it with additional, context-rich information.  
+
+Key Steps in a RAG Pipeline:
+1. Retrieve relevant documents from a database or knowledge base.
+2. Pass the retrieved documents to a generation model.
+3. Produce a context-aware answer.
+
+Benefits of RAG:
+- Reduces hallucinations by grounding answers in actual data.
+- Can use smaller models while still giving high-quality results.
+- Allows easy updates to knowledge without retraining the model.

@@ -1,0 +1,9 @@
+Technologies commonly used in RAG systems include:
+
+1. LangChain – An open-source Python framework designed for building applications powered by language models. It helps link retrieval, generation, and prompt management.
+2. FAISS – A library for efficient similarity search and clustering of dense vectors, developed by Facebook AI Research.
+3. HuggingFace Transformers – A library providing thousands of pre-trained NLP models, including BERT, GPT-2, T5, and others.
+4. Sentence Transformers – A Python library that makes it easy to compute vector embeddings for text, allowing semantic search.
+
+Fun Fact:
+FAISS is written mainly in C++ but has Python bindings, making it fast and easy to integrate into ML pipelines.

@@ -1,0 +1,9 @@
+History of Retrieval-Augmented Generation (RAG):
+
+- 2019: HuggingFace released its Transformers library, enabling easy use of state-of-the-art NLP models.
+- 2020: Facebook AI Research published the RAG model architecture, combining retrieval with generation in a single system.
+- 2021: LangChain emerged as a flexible tool for chaining together language model tasks, including retrieval steps.
+- 2022: The popularity of RAG grew in AI research and industry applications, particularly in chatbots and search assistants.
+
+Interesting Fact:
+The original RAG paper by Facebook demonstrated that adding retrieved context significantly improved factual accuracy compared to generation-only models.
